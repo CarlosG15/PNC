@@ -8,4 +8,4 @@ Feature: Open a PNC session, review Virtual Wallet and close window
     And CLose Session
     Examples:
       |username  |password  |
-      | ciga210188     | morelia1    |
+      | 00000     | 0000    |
